@@ -1,0 +1,2 @@
+This is my third text file for testing the commands.
+Now after staging process the file i am doing some changes.
