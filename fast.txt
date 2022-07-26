@@ -1,2 +1,5 @@
 This is file created in fast_forward branch.
 I am doing changes in the file to make an example fot eh SHA has been changed or not.
+
+
+Doing some changes to save them in stash.
